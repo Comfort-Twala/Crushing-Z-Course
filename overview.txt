@@ -1,0 +1,21 @@
+OVERVIEW
+Introduction
+	- Z course
+	- Using Site
+Course Question Structure
+	- Understanding Question + Solve without code
+	- Obtaining input
+		- File
+		- User input
+	- Munipulation Data
+		- String
+		- Integer/Double/Float
+		- Arrays/ArrayList
+	- Applying Formula
+	- Printing the Output
+		- String formating
+	- EXTRAS
+		- JShell
+		- Java Sugar
+			- ternary operator
+			- lambda function
